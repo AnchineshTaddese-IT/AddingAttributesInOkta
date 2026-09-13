@@ -9,12 +9,12 @@
 
 - Windows 11
 
-<h2>Attributes Added for Users</h2> 
+<h2>Attributes Added to Users</h2> 
 
 <p> 
 <img width="1063" height="625" alt="image" 
 src="https://github.com/AnchineshTaddese-IT/AddingAttributesInOkta/blob/main/Attributes.png" /> 
 </p>
 <p> 
-Attributes added for Stacy Robinson (one out of several users, can show more if requested). 
-- 
+Attributes added to Stacy Robinson (one out of several users, can show more if requested). 
+
